@@ -3,4 +3,4 @@ gitNewClone
 
 creating a new branch is quick.
 
-add a zy branch
+add a zy new branch and simple
